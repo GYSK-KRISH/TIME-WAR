@@ -1,0 +1,56 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1794665334
+default_bus_layout.tres::AudioBusLayout::6154612993266235982::1794664219::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1794665334::0::1::::<><><>0<>0<><>::
+TIME WAR.apple-touch-icon.png::CompressedTexture2D::7834846030752164793::1794665333::1794665363::1::::<><><>0<>0<>03bffd80922152bb33683d3f7c554f2e<>res://.godot/imported/TIME WAR.apple-touch-icon.png-01510043e9c086492701030e137d2945.ctex::
+TIME WAR.icon.png::CompressedTexture2D::8486674239454922650::1794665333::1794665363::1::::<><><>0<>0<>cefedee6852ac5d218ceb547bd067e6d<>res://.godot/imported/TIME WAR.icon.png-5ad0932d768c7b34feb59027bcf9063d.ctex::
+TIME WAR.png::CompressedTexture2D::1418802481294043405::1794665333::1794665363::1::::<><><>0<>0<>75389c6cc8bb77906a9a2ea378bd68d8<>res://.godot/imported/TIME WAR.png-d0a59f6c9f1632fecb1d51adf2d21748.ctex::
+::res://assets/::1794662694
+::res://assets/assest GAME/::1794662707
+::res://assets/assest GAME/BB/::1794662695
+TX Plant.png::CompressedTexture2D::1220973366184851047::1794662694::1794662695::1::::<><><>0<>0<>482c0803b80f7ba411ba9d68b339f4de<>res://.godot/imported/TX Plant.png-5c917dcd54adf184fa33ffbb0c779be1.ctex::
+TX Player.png::CompressedTexture2D::3093944838143060378::1794662694::1794662695::1::::<><><>0<>0<>01956bd01f690db23c369248e61e8d55<>res://.godot/imported/TX Player.png-67f8d0de46efcbae14893af2297a51f4.ctex::
+TX Props.png::CompressedTexture2D::2125467012411082759::1794662694::1794662695::1::::<><><>0<>0<>d4b74f10410964c9ea7a45348718d713<>res://.godot/imported/TX Props.png-8b7ccebe3a927a8957c70853a8ec66f7.ctex::
+TX Shadow Plant.png::CompressedTexture2D::4843390777920750497::1794662694::1794662695::1::::<><><>0<>0<>eb0e6e622ed35b5f3601f5816bb0f9cc<>res://.godot/imported/TX Shadow Plant.png-1a1045298003739ce897c24bdd23d6d5.ctex::
+TX Shadow.png::CompressedTexture2D::6168206249331225803::1794662694::1794662695::1::::<><><>0<>0<>1d248a80e1229ca5e46862cdc0ef6a51<>res://.godot/imported/TX Shadow.png-ef56ca80bf993218476ff4f92b7f1e20.ctex::
+TX Struct.png::CompressedTexture2D::6498440354360395148::1794662694::1794662695::1::::<><><>0<>0<>b38091e06df3c410327baed58beb34a2<>res://.godot/imported/TX Struct.png-3da7fa35506864e98f9f9e497eb5c75b.ctex::
+TX Tileset Grass.png::CompressedTexture2D::5561326123010746236::1794662694::1794662695::1::::<><><>0<>0<>2227c9ac198bc46bd70c86f903e7b48e<>res://.godot/imported/TX Tileset Grass.png-fc5fb6040cc57af075d1ef9bc31a907f.ctex::
+TX Tileset Stone Ground.png::CompressedTexture2D::4978730847651450415::1794662694::1794662695::1::::<><><>0<>0<>eafa5f1d9d2105c43dd57411b8b3c7dc<>res://.godot/imported/TX Tileset Stone Ground.png-239aaeb0114cc1122ac7f13d23fc6cf9.ctex::
+TX Tileset Wall.png::CompressedTexture2D::6260268772609841264::1794662694::1794662695::1::::<><><>0<>0<>0ffdcffbfa51f4f625b9714bbbbfe6f4<>res://.godot/imported/TX Tileset Wall.png-c4fc50c55d0564cc858dccec0449bd48.ctex::
+::res://assets/assest GAME/PLAYER/::1794663536
+flag animation.png::CompressedTexture2D::3208333205504521516::1794662966::1794662967::1::::<><><>0<>0<>5293db67efb44d55b0e57e69df583f2e<>res://.godot/imported/flag animation.png-aec370fd58c230d7397d7c860807d1e6.ctex::
+knight-side.png::CompressedTexture2D::3734421073728630131::1794663535::1794663536::1::::<><><>0<>0<>da0dd18d70b48cd4f9193405b8c56399<>res://.godot/imported/knight-side.png-971b0a8c166ae15ff2c4f7b43fe19932.ctex::
+::res://assets/fonts/::1794662087
+PixelOperator8-Bold.ttf::FontFile::6936941770277928638::1794661977::1794662087::1::::<><><>0<>0<>76ff186ab81d543f0c956d2cd00576a0<>res://.godot/imported/PixelOperator8-Bold.ttf-74faf550739674ad3170f08e646e0614.fontdata::
+PixelOperator8.ttf::FontFile::7248744870507454393::1794661977::1794662087::1::::<><><>0<>0<>facbfc03f35e66da5b0cc7177d3915a5<>res://.godot/imported/PixelOperator8.ttf-6f9f01766aff16f52046b880ffb8d367.fontdata::
+::res://assets/music/::1794662085
+time_for_adventure.mp3::AudioStreamMP3::910032320464020072::1794661978::1794662085::1::::<><><>0<>0<>235d2f19bebcb5857e274ac8e4989bc0<>res://.godot/imported/time_for_adventure.mp3-b8a49ae1cfc83b211be9d82e6e985655.mp3str::
+::res://assets/sounds/::1794662087
+coin.wav::AudioStreamWAV::540128631005207270::1794661978::1794662087::1::::<><><>0<>0<>d030ffa42773333cda290881e91dbfe8<>res://.godot/imported/coin.wav-9081ee1c6d81d9c34d08bc916297b892.sample::
+explosion.wav::AudioStreamWAV::3923250085558049769::1794661978::1794662087::1::::<><><>0<>0<>fb971d0cb6ed6d99a6658d383144bc32<>res://.godot/imported/explosion.wav-52e05e8d4b6600106c8dde082c90f915.sample::
+hurt.wav::AudioStreamWAV::9136989958465260607::1794661978::1794662087::1::::<><><>0<>0<>3cbb5c1038804b177f51beb78f9e5bb8<>res://.godot/imported/hurt.wav-792baeb99505afd6a1496d4e4330b023.sample::
+jump.wav::AudioStreamWAV::4555448410108296144::1794661978::1794662087::1::::<><><>0<>0<>343f8ad7743d146e43beacc969590532<>res://.godot/imported/jump.wav-395b727cde98999423d5c020c9c3492f.sample::
+power_up.wav::AudioStreamWAV::5280086168748845488::1794661978::1794662087::1::::<><><>0<>0<>6b08f8d07d2af27cec66ef6e653fdd3e<>res://.godot/imported/power_up.wav-8349ffe570559470036ebff4b80f7fc0.sample::
+tap.wav::AudioStreamWAV::8577790250360397841::1794661978::1794662087::1::::<><><>0<>0<>11e068f2699cabdec171045c8a82f79e<>res://.godot/imported/tap.wav-78d4c5a48b21a853d89bec74f20510e7.sample::
+::res://assets/sprites/::1794662087
+coin.png::CompressedTexture2D::3447739040894185057::1794661978::1794662087::1::::<><><>0<>0<>aedfd5ff9d871bc897cd9828a7f18afd<>res://.godot/imported/coin.png-c8309bf0f8fb5f3a7d1e96a4eb3f02ce.ctex::
+fruit.png::CompressedTexture2D::470233896381552850::1794661978::1794662087::1::::<><><>0<>0<>0ac7fb12b0e3b0cc5ec7e48b84f91f31<>res://.godot/imported/fruit.png-3735163b668af10c2b35b52cba81b68a.ctex::
+knight.png::CompressedTexture2D::4707526479979974505::1794661978::1794662087::1::::<><><>0<>0<>8984ec9340139cf638974dadd5295abc<>res://.godot/imported/knight.png-7c67c83d34932624952797d9e971a644.ctex::
+platforms.png::CompressedTexture2D::6429460309075172824::1794661978::1794662087::1::::<><><>0<>0<>bccc63fd37d0c62cad83ec0d86908004<>res://.godot/imported/platforms.png-3869606db457611ed4193d705dc364e4.ctex::
+slime_green.png::CompressedTexture2D::3222140907498469096::1794661978::1794662087::1::::<><><>0<>0<>35c97737e1cf4b70181cbff8bbd76ded<>res://.godot/imported/slime_green.png-f6349164bf3a0f5189bb927b97af9c58.ctex::
+slime_purple.png::CompressedTexture2D::3959724587980025257::1794661978::1794662087::1::::<><><>0<>0<>098b27026ad0008a7ac7efd2813be222<>res://.godot/imported/slime_purple.png-26dc5ddef235ce6a400e78e0d532b050.ctex::
+world_tileset.png::CompressedTexture2D::263196027477670198::1794661978::1794662087::1::::<><><>0<>0<>1b49c3d6c58c021ae08378860426ff1a<>res://.godot/imported/world_tileset.png-61a32465f33c3d9d3bfecb75b6485009.ctex::
+::res://scenes/::1794664920
+coin.tscn::PackedScene::1086827868758606395::1794663061::0::1::::<><><>0<>0<><>::uid://0he2a3fc0n15::::res://scripts/coin.gd<>uid://blye1qx07hh45::::res://assets/assest GAME/PLAYER/flag animation.png<>uid://hxv3svfwkg67::::res://assets/sounds/coin.wav
+game.tscn::PackedScene::6221769105244979977::1794664920::0::1::::<><><>0<>0<><>::uid://dxuf40asaxghr::::res://scripts/game_manager.gd<>uid://dqnaqj8yb6hwd::::res://scenes/player.tscn<>uid://c53kogtyjwsss::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://d0q2g65ahgok::::res://assets/sprites/world_tileset.png<>uid://bgv5v2fxqlswe::::res://scenes/platform.tscn<>uid://pqp5qaw561fr::::res://scenes/coin.tscn<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn<>uid://d2w2i5h0lhc6l::::res://scenes/slime.tscn
+killzone.tscn::PackedScene::8528023117307378280::1794661978::0::1::::<><><>0<>0<><>::res://scripts/killzone.gd
+music.tscn::PackedScene::9087163476960069889::1794662225::0::1::::<><><>0<>0<><>::uid://m73dm4jhs3eq::::res://assets/music/time_for_adventure.mp3
+platform.tscn::PackedScene::2852766116732873392::1794661978::0::1::::<><><>0<>0<><>::uid://cxuqjimd7csiq::::res://assets/sprites/platforms.png
+player.tscn::PackedScene::8309149557574787539::1794663671::0::1::::<><><>0<>0<><>::uid://dhojb01i6t155::::res://scripts/player.gd<>uid://btg8mtd8rgmt4::::res://assets/assest GAME/PLAYER/knight-side.png
+slime.tscn::PackedScene::9101432372716425337::1794661978::0::1::::<><><>0<>0<><>::res://scripts/slime.gd<>uid://bl53gpvg5mh1y::::res://assets/sprites/slime_green.png<>uid://dtrbka1ef726o::::res://scenes/killzone.tscn
+::res://scripts/::1794663805
+coin.gd::GDScript::1769462863121098062::1794661978::0::1::::<>Area2D<><>0<>0<><>::
+game_manager.gd::GDScript::8815249696724820239::1794663805::0::1::::<>Node<><>0<>0<><>::
+killzone.gd::GDScript::4003144695590457277::1794661978::0::1::::<>Area2D<><>0<>0<><>::
+player.gd::GDScript::7680034837485525898::1794661978::0::1::::<>CharacterBody2D<><>0<>0<><>::
+slime.gd::GDScript::5079258631319518607::1794661978::0::1::::<>Node2D<><>0<>0<><>::
